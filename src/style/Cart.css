@@ -1,0 +1,29 @@
+.main-container{
+    display: flex;
+}
+
+.product-description{
+    margin-bottom: -13px;
+    font-size: 13px;
+}
+
+.product-description-column{
+    margin-left: 10px;
+    margin-top: -16px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+.total-calculation{
+    display: flex;
+    background-color: rgb(211, 200, 200);
+    width: 50%;
+    justify-content: center;
+    border-radius: 25px;
+    margin-left: 14px;
+}
+.shipping-details{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+}

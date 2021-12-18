@@ -1,0 +1,48 @@
+body{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header-section{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+   border-bottom: 1px solid rgb(196, 189, 189);
+   
+}
+.person-category{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-left: 35%;
+   
+}
+.profile-cart-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   float: right;
+   margin-left: 35%;
+}
+.logo{
+  
+}
+
+@media only screen and (max-width: 600px) {
+    .profile-cart-section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+       float: right;
+      
+    }
+    .person-category{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+       
+    }
+  }

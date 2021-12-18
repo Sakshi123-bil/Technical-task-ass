@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.subcontainer{
+  display: flex;
+  margin-top: 40px;
+}
+.btn-section{
+  margin-left: 70%;
+}
+@media only screen and (max-width: 1280px) {
+  .btn-section{
+    margin-left: 50%;
+  }
+  
+}

@@ -1,0 +1,13 @@
+.userinfo{
+    padding: 13px;
+    padding-left: 24px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    width: 200px;
+    border: 1px solid rgb(223, 219, 219);
+    color: rgb(218, 209, 209);
+}
+
+.userdetails{
+    display: flex;
+}
